@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script
+      src="https://kit.fontawesome.com/bd2bc1c4db.js"
+      crossorigin="anonymous"
+    ></script>
+</head>
+<body>
+    <div class="container">
+        <div id="end" class="flex-center flex-colunm">
+            <h1 id='finalScore'>0</h1>
+            <form class="end-form-container">
+                <h2 id="end-text">Enter ur name belove to save ur score<h2>
+            <input type="text" name='name' id='username'
+            placeholder='enter ur name'>
+            <button class="btn" id="saveScoreBtn" type='submit' 
+            onClick='saveHighScore(event)' dasabled>Save</button>
+                </form>
+                <a href="/game.html" class="btn">Play again</a>
+                <a href="/" class="btn">Go home <i class='fas fa-home'></i></a>
+
+        </div>
+<script src="end.js"></script>
+    </div>
+</body>
+</html>

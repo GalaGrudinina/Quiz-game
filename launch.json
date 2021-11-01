@@ -1,0 +1,26 @@
+[
+    {
+      "question": "What is Galas lucky number?",
+      "choice1": "3",
+      "choice2": "21",
+      "choice3": "666",
+      "choice4": "3,14",
+      "answer": 1
+    },
+    {
+      "question": "When we had our 1st sex?",
+      "choice1": "12.02.21",
+      "choice2": "13.02.21",
+      "choice3": "15.02.21",
+      "choice4": "14.02.21",
+      "answer": 3
+    },
+    {
+      "question": "Pick the color",
+      "choice1": "purple",
+      "choice2": "green",
+      "choice3": "yellow",
+      "choice4": "blue",
+      "answer": 4
+    }
+  ]
